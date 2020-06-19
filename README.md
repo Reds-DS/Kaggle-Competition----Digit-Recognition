@@ -43,8 +43,9 @@ Results
 ------------------------------------------
 
 * We got a model with `Training accuracy = 0.9980` and `Validation accuracy = 0.9933`, which implies a model with : 
-	* `Low bias` i.e without underfitting
-	* `Low variance` i.e without overfitting
+	* `Low bias` i.e without underfitting `Cf. Curves in the notebook`
+	* `Low variance` i.e without overfitting `Cf. Curves in the notebook`
+	
 
 
 
