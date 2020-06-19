@@ -42,7 +42,7 @@ Deep Neural Network for image recognition
 Results
 ------------------------------------------
 
-* We get a model with `Training accuracy = 0.9980` and `Validation accuracy = 0.9933`, which implies a model with : 
+* We got a model with `Training accuracy = 0.9980` and `Validation accuracy = 0.9933`, which implies a model with : 
 	* `Low bias` i.e without underfitting
 	* `Low variance` i.e without overfitting
 
